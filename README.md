@@ -11,6 +11,7 @@ Zdecydowałam się na udział w Dare-IT Portfolio Challenge, ponieważ jest to �
 
 ## Subtask 4
 - Na czym polega ta aplikacja? Do czego służy?
+
 Aplikacja służy do zbierania i zarządzania informacjami o piłkarzach, rozegranych przez nich meczach oraz tworzenia raportów oceniających graczy.
 
 - Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?
@@ -40,7 +41,7 @@ Aplikacja służy do zbierania i zarządzania informacjami o piłkarzach, rozegr
     - W aplikacji jest wiele miejsc nieintuicyjnych, które należałoby poprawić, bo dotyczą podstawowych funkcji aplikacji (wskazałam najważniejsze powyżej).
     - W kilku miejscach nie ma też zachowanego bliźniaczego schematu działania aplikacji (co może utrudniać korzystanie z niej) np. gracza można zaktualizować poprzez kliknięcie na niego na liście z graczami, natomiast mecze można aktualizować tylko poprzez kliknięcie w ikonę ołówka.
    
-- Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
+- Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem?
     - Nieprawidłowa walidacja pól, które są wymagane do wypełnienia podczas dodawania nowego gracza oraz dodawania meczu (niejasne komunikaty lub ich brak)
     - Brak możliwości usunięcia zawodnika, meczu oraz raportu
     - Podczas dodawania nowego gracza:
