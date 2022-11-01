@@ -33,11 +33,11 @@ Aplikacja służy do zbierania i zarządzania informacjami o piłkarzach, rozegr
     - Możliwość przejścia do strony głównej
     - Wylogowanie z aplikacji
     
-- Oceń interfejs aplikacji – czy Ci się podoba, czy nie?
+- Oceń interfejs aplikacji.
     - Interfejs aplikacji jest prosty (co jest na plus), niestety niedopracowany. Podoba mi się prosta kolorystyka, która nie odwraca uwagi od funkcji aplikacji. Dobrym pomysłem było wykorzystanie w aplikacji ikon, które sygnalizują co się dzieje pod danym elementem, np. w menu. Strona główna jest jednak do całkowitej przebudowy - zawiera informacje, które raczej nie są potrzebne użytkownikowi (ilości: graczy, meczy, raportów, akcji), natomiast umieszcza jedną z ważniejszych funkcji - “Dodaj gracza” w linkach pomocniczych.
     - Dobrym pomysłem byłoby też zwiększenie czcionki, a może również zmiana koloru opisów pól przy dodawaniu/edycji nowego gracza/meczu, ponieważ w aktualnej wersji mogą być nieczytelne dla osób niedowidzących.
    
-- Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
+- Czy aplikacja jest intuicyjna?
     - W aplikacji jest wiele miejsc nieintuicyjnych, które należałoby poprawić, bo dotyczą podstawowych funkcji aplikacji (wskazałam najważniejsze powyżej).
     - W kilku miejscach nie ma też zachowanego bliźniaczego schematu działania aplikacji (co może utrudniać korzystanie z niej) np. gracza można zaktualizować poprzez kliknięcie na niego na liście z graczami, natomiast mecze można aktualizować tylko poprzez kliknięcie w ikonę ołówka.
    
