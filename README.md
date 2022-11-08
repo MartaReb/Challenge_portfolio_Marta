@@ -77,10 +77,10 @@ Aplikacja służy do zbierania i zarządzania informacjami o piłkarzach, rozegr
    
    
  # TASK 2
- ## Subtask 1 - Test cases
+ ## Subtask 1 - Przypadki testowe dla polskiej wersji aplikacji Scouts Panel napisane na podstawie User Story 
  https://docs.google.com/document/d/1mK37GsoEOsTZ10nhPyoEjv-YgcUICoEXTmWwzlLapzk/edit
  
- ## Subtask 2 - Test cases
+ ## Subtask 2 - Przypadki testowe dla polskiej wersji aplikacji Scouts Panel napisane na podstawie “własnych doświadczeń" 
  https://docs.google.com/document/d/1xkZTpiF0Zz2_4DDGyjX7VrOgu4zt_uVUMsjPm1rWedk/edit
  
  ## Subtask 3 
@@ -94,5 +94,5 @@ Aplikacja służy do zbierania i zarządzania informacjami o piłkarzach, rozegr
  - Można wykorzystać przypadki testowe w kontekście testów akceptacyjnych w celu potwierdzenia działania aplikacji zgodnie z oczekiwaniami.
  - Spisane przypadki testowe, mogą stanowić scenariusze do oskryptowania i przeprowadzenia testów automatycznych.
  
- ## Subtask 4
+ ## Subtask 4 - Przypadki testowe dla polskiej wersji aplikacji Pick Eat Up napisane na podstawie “własnych doświadczeń" 
 https://docs.google.com/document/d/164lum8wfixR88mhimARGnkl_FtmL5E5n7eGDKlgOF60/edit?usp=sharing
