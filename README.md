@@ -84,7 +84,7 @@ Aplikacja służy do zbierania i zarządzania informacjami o piłkarzach, rozegr
  https://docs.google.com/document/d/1xkZTpiF0Zz2_4DDGyjX7VrOgu4zt_uVUMsjPm1rWedk/edit
  
  ## Subtask 3 
- ** Po co piszemy test case’y? **
+ **Po co piszemy test case’y?**
  - Przypadki testowe pozwalają nam uporządkować sposób testowania oprogramowania krok po kroku.
  - Dobre pokrycie oprogramowania przypadkami testowymi daje nam pewność, że podczas testów nie pominęliśmy żadnej ważnej funkcjonalności.
  - Na podstawie przypadków testowych można przygotować metryki pokazujące, np. liczbę planowanych i wykonanych przypadków testowych, liczbę tych, które zakończyły się sukcesem, i tych, które wykazały błędy, a później przedstawić to w raporcie z testów.
@@ -95,3 +95,4 @@ Aplikacja służy do zbierania i zarządzania informacjami o piłkarzach, rozegr
  - Spisane przypadki testowe, mogą stanowić scenariusze do oskryptowania i przeprowadzenia testów automatycznych.
  
  ## Subtask 4
+https://docs.google.com/document/d/164lum8wfixR88mhimARGnkl_FtmL5E5n7eGDKlgOF60/edit?usp=sharing
