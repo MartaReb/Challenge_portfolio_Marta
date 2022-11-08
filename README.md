@@ -74,3 +74,24 @@ Aplikacja służy do zbierania i zarządzania informacjami o piłkarzach, rozegr
     - Angielskie nazwy przycisków (”Submit”, “Clear”, “Save”), angielskie opisy pól (”General”, “Web match”, “Filters”, “Age”, “Reset”, “Rate”, “Sort”, “Print”, “Download CSV”, “Print”, “View Columns”, “Filter Table” ) oraz angielskie komunikaty (”Sorry, no matching records found”) w polskiej wersji językowej strony
     - Literówka: “Aktywnosć” zamiast “Aktywność” na stronie głównej
     - Słabo widoczne lub niewidoczne paski do przewijania strony
+   
+   
+ # TASK 2
+ ## Subtask 1 - Test cases
+ https://docs.google.com/document/d/1mK37GsoEOsTZ10nhPyoEjv-YgcUICoEXTmWwzlLapzk/edit
+ 
+ ## Subtask 2 - Test cases
+ https://docs.google.com/document/d/1xkZTpiF0Zz2_4DDGyjX7VrOgu4zt_uVUMsjPm1rWedk/edit
+ 
+ ## Subtask 3 
+ ** Po co piszemy test case’y? **
+ - Przypadki testowe pozwalają nam uporządkować sposób testowania oprogramowania krok po kroku.
+ - Dobre pokrycie oprogramowania przypadkami testowymi daje nam pewność, że podczas testów nie pominęliśmy żadnej ważnej funkcjonalności.
+ - Na podstawie przypadków testowych można przygotować metryki pokazujące, np. liczbę planowanych i wykonanych przypadków testowych, liczbę tych, które zakończyły się sukcesem, i tych, które wykazały błędy, a później przedstawić to w raporcie z testów.
+ - Tworząc przypadki testowe, możemy zauważyć braki danych oraz problemy z logiką oprogramowania.
+ - Jest to też forma spisania wiedzy o testowanym oprogramowaniu, która może przydać się przy wprowadzaniu do zespołu nowej osoby.
+ - To dokumentacja pracy testera.
+ - Można wykorzystać przypadki testowe w kontekście testów akceptacyjnych w celu potwierdzenia działania aplikacji zgodnie z oczekiwaniami.
+ - Spisane przypadki testowe, mogą stanowić scenariusze do oskryptowania i przeprowadzenia testów automatycznych.
+ 
+ ## Subtask 4
