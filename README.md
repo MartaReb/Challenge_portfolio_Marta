@@ -107,9 +107,9 @@ Aplikacja służy do zbierania i zarządzania informacjami o piłkarzach, rozegr
 ## Subtask 1 
 **Zgłoszania błędów znalezionych w polskiej wersji aplikacji Scouts Panel**
 
-👉 https://drive.google.com/drive/folders/1aorSgvEQ9CEgaeT7lzUkt_orGRwpoZUz
+👉 https://docs.google.com/document/d/1dSYjm6jRazSG24NIZUPnGj1uk4Ty9UbkomDj8_uM5wg/edit
 
 ## Subtask 3 
 **Raport z testów aplikacji Scouts Panel**
 
-👉 https://drive.google.com/drive/folders/1aorSgvEQ9CEgaeT7lzUkt_orGRwpoZUz
+👉 https://docs.google.com/document/d/1keU7FVRSoz-UN3lHbbZEwY4mohcVX0SaG0G32xQ7nj4/edit
