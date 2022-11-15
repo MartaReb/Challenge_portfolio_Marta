@@ -79,10 +79,12 @@ Aplikacja służy do zbierania i zarządzania informacjami o piłkarzach, rozegr
  # TASK 2
  ## Subtask 1 
  **Przypadki testowe dla polskiej wersji aplikacji Scouts Panel napisane na podstawie User Story** 
+ 
  https://docs.google.com/document/d/1mK37GsoEOsTZ10nhPyoEjv-YgcUICoEXTmWwzlLapzk/edit
  
  ## Subtask 2 
  **Przypadki testowe dla polskiej wersji aplikacji Scouts Panel napisane na podstawie “własnych doświadczeń"**
+ 
  https://docs.google.com/document/d/1xkZTpiF0Zz2_4DDGyjX7VrOgu4zt_uVUMsjPm1rWedk/edit
  
  ## Subtask 3 
@@ -98,13 +100,16 @@ Aplikacja służy do zbierania i zarządzania informacjami o piłkarzach, rozegr
  
  ## Subtask 4 
  **Przypadki testowe dla polskiej wersji aplikacji Pick Eat Up napisane na podstawie “własnych doświadczeń"**
+ 
 https://docs.google.com/document/d/164lum8wfixR88mhimARGnkl_FtmL5E5n7eGDKlgOF60/edit?usp=sharing
 
 # TASK 3
 ## Subtask 1 
 **Zgłoszania błędów znalezionych w polskiej wersji aplikacji Scouts Panel**
+
 https://drive.google.com/drive/folders/1aorSgvEQ9CEgaeT7lzUkt_orGRwpoZUz
 
 ## Subtask 3 
 **Raport z testów aplikacji Scouts Panel**
+
 https://drive.google.com/drive/folders/1aorSgvEQ9CEgaeT7lzUkt_orGRwpoZUz
