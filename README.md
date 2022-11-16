@@ -80,12 +80,12 @@ Aplikacja służy do zbierania i zarządzania informacjami o piłkarzach, rozegr
  ## Subtask 1 
  **Przypadki testowe dla polskiej wersji aplikacji Scouts Panel napisane na podstawie User Story** 
  
- 👉 https://docs.google.com/document/d/1mK37GsoEOsTZ10nhPyoEjv-YgcUICoEXTmWwzlLapzk/edit
+ 👉 https://docs.google.com/spreadsheets/d/1SP-CrVc0SAjelZIyhspTlQ3_JZOpGMnU5815dC1lqvA/edit#gid=0
  
  ## Subtask 2 
  **Przypadki testowe dla polskiej wersji aplikacji Scouts Panel napisane na podstawie “własnych doświadczeń"**
  
- 👉 https://docs.google.com/document/d/1xkZTpiF0Zz2_4DDGyjX7VrOgu4zt_uVUMsjPm1rWedk/edit
+ 👉 https://docs.google.com/spreadsheets/d/1zTbFyk3hQX7hQHB8TF2cweT7H1wb_Au-MV93QLbg09M/edit#gid=0
  
  ## Subtask 3 
  **Po co piszemy test case’y?**
