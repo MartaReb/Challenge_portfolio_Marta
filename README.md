@@ -78,14 +78,10 @@ Aplikacja służy do zbierania i zarządzania informacjami o piłkarzach, rozegr
    
  # TASK 2
  ## Subtask 1 
- **Przypadki testowe dla polskiej wersji aplikacji Scouts Panel napisane na podstawie User Story** 
- 
- 👉 https://docs.google.com/spreadsheets/d/1SP-CrVc0SAjelZIyhspTlQ3_JZOpGMnU5815dC1lqvA/edit#gid=0
+ 👉[Przypadki testowe dla polskiej wersji aplikacji Scouts Panel napisane na podstawie User Story](https://docs.google.com/spreadsheets/d/1SP-CrVc0SAjelZIyhspTlQ3_JZOpGMnU5815dC1lqvA/edit#gid=0)
  
  ## Subtask 2 
- **Przypadki testowe dla polskiej wersji aplikacji Scouts Panel napisane na podstawie “własnych doświadczeń"**
- 
- 👉 https://docs.google.com/spreadsheets/d/1zTbFyk3hQX7hQHB8TF2cweT7H1wb_Au-MV93QLbg09M/edit#gid=0
+ 👉[Przypadki testowe dla polskiej wersji aplikacji Scouts Panel napisane na podstawie “własnych doświadczeń"](https://docs.google.com/spreadsheets/d/1zTbFyk3hQX7hQHB8TF2cweT7H1wb_Au-MV93QLbg09M/edit#gid=0)
  
  ## Subtask 3 
  **Po co piszemy test case’y?**
@@ -99,17 +95,20 @@ Aplikacja służy do zbierania i zarządzania informacjami o piłkarzach, rozegr
  - Spisane przypadki testowe, mogą stanowić scenariusze do oskryptowania i przeprowadzenia testów automatycznych.
  
  ## Subtask 4 
- **Przypadki testowe dla polskiej wersji aplikacji Pick Eat Up napisane na podstawie “własnych doświadczeń"**
+ 👉[Przypadki testowe dla polskiej wersji aplikacji Pick Eat Up napisane na podstawie “własnych doświadczeń"](https://docs.google.com/document/d/164lum8wfixR88mhimARGnkl_FtmL5E5n7eGDKlgOF60/edit?usp=sharing)
  
-👉 https://docs.google.com/document/d/164lum8wfixR88mhimARGnkl_FtmL5E5n7eGDKlgOF60/edit?usp=sharing
-
 # TASK 3
 ## Subtask 1 
-**Zgłoszania błędów znalezionych w polskiej wersji aplikacji Scouts Panel**
-
-👉 https://docs.google.com/document/d/1dSYjm6jRazSG24NIZUPnGj1uk4Ty9UbkomDj8_uM5wg/edit
+👉[Zgłoszania błędów znalezionych w polskiej wersji aplikacji Scouts Panel](https://docs.google.com/document/d/1dSYjm6jRazSG24NIZUPnGj1uk4Ty9UbkomDj8_uM5wg/edit)
 
 ## Subtask 3 
-**Raport z testów aplikacji Scouts Panel**
+👉[Raport z testów aplikacji Scouts Panel](https://docs.google.com/document/d/1keU7FVRSoz-UN3lHbbZEwY4mohcVX0SaG0G32xQ7nj4/edit)
 
-👉 https://docs.google.com/document/d/1keU7FVRSoz-UN3lHbbZEwY4mohcVX0SaG0G32xQ7nj4/edit
+# TASK 4
+## Subtask 1
+👉[Zgłoszenia błędów dla aplikacji mobilnej Focusly](https://docs.google.com/spreadsheets/d/1nip9iNvL0U9zRAD8Nrj2_VwPruIk00vqF09xSwV-fKI/edit#gid=0)
+
+## Subtask 3
+
+## Subtask 4
+
