@@ -139,5 +139,5 @@ Pomysły na dodatkowe funkcjonalności:
 Aplikacje internetową trzeba przetestować biorąc pod uwagę przeglądarki internetowe i urządzeniach, natomiast w natywnej możemy się ograniczyć testy do urządzeń z danym systemem operacyjnym. W aplikacji natywnej trzeba zwracać uwagę na odpowiednie rozmieszczenie i wielkość przycisków, czy można przesuwać strony bez klikania w ekran, czy wszystko płynnie można przesuwać i nic się nie zacina. Trzeba też wykonać testy pod względem wysyłanych przez aplikację natywną powiadomień oraz współgranie z panelem nawigacyjnym telefonu. Należy przetestować też wykorzystanie przez aplikację natywną wbudowanych zasobów urządzenia: lokalizacji, aparatu, książki adresowej itp. Powinno się sprawdzić też jak aplikacja natywna zachowa się w przypadku zakłóceń, takich jak połączenia telefoniczne, SMS-y i wiadomości, powiadomienia push itp. a także jak aplikacja zachowuje się w trybie offline. W przypadku aplikacji internetowych warto zwrócić uwagę na to jak dużo danych pobiera z serwera, czy nie przeciąża telefonu, czy jak zachowuje się w warunkach ograniczonego dostępu do internetu.
 
 ## Subtask 4
-[Zgłoszenia błędów do aplikacji mobilnej SwipeTo w Jira](https://testerzy.atlassian.net/jira/your-work)
+[Zgłoszenia błędów dla aplikacji mobilnej SwipeTo w Jira](https://testerzy.atlassian.net/jira/your-work)
 
