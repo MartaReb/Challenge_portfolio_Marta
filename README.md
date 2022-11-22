@@ -110,15 +110,19 @@
 
 ## Subtask 3
 1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+
     Aplikacja służy do zarabiania na sprzedawaniu dostępu do wszystkich funkcjonalności i nagrań w aplikacji w trybie miesięcznym lub rocznym.
     
 2. Kto ma być użytkownikiem końcowym aplikacji?
+
     Użytkownikiem końcowym mają być osoby, które chcą poprawić swój dobrostan psychiczny lub chcące zredukować stres poprzez np. medytacje, techniki relaksacyjne, techniki oddechowe, itp.
     
 3. Czy według Ciebie aplikacja jest user friendly?
+
     Uważam, że potrzeba by było kilka zmian, żeby aplikacja ta stała się user-friendly. Jest kilka miejsc, które nie są intuicyjne i mogą spowodować, że użytkownik może się poczuć zagubiony i zrezygnuje z korzystania z niej. Można takie miejsca znaleźć już na stronie głównej, korzystając z dostępnych tam funkcji, a przecież strona główna jest wizytówką aplikacji. Niektóre przydatne funkcje w aplikacji są za mało widoczne, podczas gdy inne są zbyt wyeksponowane. Także tekst z opisami w niektórych miejscach mógłby być większy, ponieważ zbyt mały może utrudniać osobom gorzej widzącym przeczytanie informacji.
 
 4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?
+
 Poprawiłabym aplikacje poprzez:
 - Dodanie samouczka,  który po pierwszym uruchomieniu aplikacji podpowiedziałby jak aplikacja działa, gdzie są jej podstawowe funkcje i jak je uruchomić i wyłączyć. Użytkownik sam metodą prób i błędów musi poznawać aplikacje, jeżeli chce z niej korzystać, co może być zniechęcające dla osób, które nie miały z takim rodzajem aplikacji do czynienia.
 - Dodanie możliwości przejścia z każdej strony do sekcji z możliwością uzyskania pomocy czy kontaktu z twórcami aplikacji. W tym momencie funkcja ta nie jest łatwo dostępna i trzeba wykonać kilka kroków z głównego menu, żeby do niej dotrzeć.
@@ -130,6 +134,7 @@ Pomysły na dodatkowe funkcjonalności:
 - Dodanie miejsce na notatki, przemyślenia po wysłuchaniu konkretnych lekcji, miejsce na notatki połączyłabym z kalendarzem
 
 5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+
     Aplikacje internetową trzeba przetestować biorąc pod uwagę przeglądarki internetowe i urządzeniach, natomiast w natywnej możemy się ograniczyć testy do urządzeń z danym systemem operacyjnym. W aplikacji natywnej trzeba zwracać uwagę na odpowiednie rozmieszczenie i wielkość przycisków, czy można przesuwać strony bez klikania w ekran, czy wszystko płynnie można przesuwać i nic się nie zacina. Trzeba też wykonać testy pod względem wysyłanych przez aplikację natywną powiadomień oraz współgranie z panelem nawigacyjnym telefonu. Należy przetestować też wykorzystanie przez aplikację natywną wbudowanych zasobów urządzenia: lokalizacji, aparatu, książki adresowej itp. Powinno się sprawdzić też jak aplikacja natywna zachowa się w przypadku zakłóceń, takich jak połączenia telefoniczne, SMS-y i wiadomości, powiadomienia push itp. a także jak aplikacja zachowuje się w trybie offline. W przypadku aplikacji internetowych warto zwrócić uwagę na to jak dużo danych pobiera z serwera, czy nie przeciąża telefonu, czy jak zachowuje się w warunkach ograniczonego dostępu do internetu.
 
 ## Subtask 4
