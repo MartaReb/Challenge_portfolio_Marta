@@ -79,10 +79,10 @@ Zdecydowałam się na udział w Dare-IT Portfolio Challenge, ponieważ jest to �
    
  # TASK 2
  ## Subtask 1 
- 👉[Przypadki testowe dla polskiej wersji aplikacji Scouts Panel napisane na podstawie User Story](https://docs.google.com/spreadsheets/d/1SP-CrVc0SAjelZIyhspTlQ3_JZOpGMnU5815dC1lqvA/edit#gid=0)
+ 👉 [Przypadki testowe dla polskiej wersji aplikacji Scouts Panel napisane na podstawie User Story](https://docs.google.com/spreadsheets/d/1SP-CrVc0SAjelZIyhspTlQ3_JZOpGMnU5815dC1lqvA/edit#gid=0)
  
  ## Subtask 2 
- 👉[Przypadki testowe dla polskiej wersji aplikacji Scouts Panel napisane na podstawie “własnych doświadczeń"](https://docs.google.com/spreadsheets/d/1zTbFyk3hQX7hQHB8TF2cweT7H1wb_Au-MV93QLbg09M/edit#gid=0)
+ 👉 [Przypadki testowe dla polskiej wersji aplikacji Scouts Panel napisane na podstawie “własnych doświadczeń"](https://docs.google.com/spreadsheets/d/1zTbFyk3hQX7hQHB8TF2cweT7H1wb_Au-MV93QLbg09M/edit#gid=0)
  
  ## Subtask 3 
  **Po co piszemy test case’y?**
@@ -96,48 +96,48 @@ Zdecydowałam się na udział w Dare-IT Portfolio Challenge, ponieważ jest to �
  - Spisane przypadki testowe, mogą stanowić scenariusze do oskryptowania i przeprowadzenia testów automatycznych.
  
  ## Subtask 4 
- 👉[Przypadki testowe dla polskiej wersji aplikacji Pick Eat Up napisane na podstawie “własnych doświadczeń"](https://docs.google.com/document/d/164lum8wfixR88mhimARGnkl_FtmL5E5n7eGDKlgOF60/edit?usp=sharing)
+ 👉 [Przypadki testowe dla polskiej wersji aplikacji Pick Eat Up napisane na podstawie “własnych doświadczeń"](https://docs.google.com/document/d/164lum8wfixR88mhimARGnkl_FtmL5E5n7eGDKlgOF60/edit?usp=sharing)
  
 # TASK 3
 ## Subtask 1 
-👉[Zgłoszania błędów znalezionych w polskiej wersji aplikacji Scouts Panel](https://docs.google.com/document/d/1dSYjm6jRazSG24NIZUPnGj1uk4Ty9UbkomDj8_uM5wg/edit)
+👉 [Zgłoszania błędów znalezionych w polskiej wersji aplikacji Scouts Panel](https://docs.google.com/document/d/1dSYjm6jRazSG24NIZUPnGj1uk4Ty9UbkomDj8_uM5wg/edit)
 
 ## Subtask 3 
-👉[Raport z testów aplikacji Scouts Panel](https://docs.google.com/document/d/1keU7FVRSoz-UN3lHbbZEwY4mohcVX0SaG0G32xQ7nj4/edit)
+👉 [Raport z testów aplikacji Scouts Panel](https://docs.google.com/document/d/1keU7FVRSoz-UN3lHbbZEwY4mohcVX0SaG0G32xQ7nj4/edit)
 
 # TASK 4
 ## Subtask 1
-👉[Zgłoszenia błędów dla aplikacji mobilnej Focusly](https://docs.google.com/spreadsheets/d/1nip9iNvL0U9zRAD8Nrj2_VwPruIk00vqF09xSwV-fKI/edit#gid=0)
+👉 [Zgłoszenia błędów dla aplikacji mobilnej Focusly](https://docs.google.com/spreadsheets/d/1nip9iNvL0U9zRAD8Nrj2_VwPruIk00vqF09xSwV-fKI/edit#gid=0)
 
 ## Subtask 3
 **1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?**
     
-Aplikacja służy do zarabiania na sprzedawaniu dostępu do wszystkich funkcjonalności i nagrań w aplikacji w trybie miesięcznym lub rocznym.
+📝 Aplikacja służy do zarabiania na sprzedawaniu dostępu do wszystkich funkcjonalności i nagrań w aplikacji w trybie miesięcznym lub rocznym.
     
 **2. Kto ma być użytkownikiem końcowym aplikacji?**
 
-Użytkownikiem końcowym mają być osoby, które chcą poprawić swój dobrostan psychiczny lub chcące zredukować stres poprzez np. medytacje, techniki relaksacyjne, techniki oddechowe, itp.
+📝 Użytkownikiem końcowym mają być osoby, które chcą poprawić swój dobrostan psychiczny lub chcące zredukować stres poprzez np. medytacje, techniki relaksacyjne, techniki oddechowe, itp.
     
 **3. Czy według Ciebie aplikacja jest user friendly?**
 
-Uważam, że potrzeba by było kilka zmian, żeby aplikacja ta stała się user-friendly. Jest kilka miejsc, które nie są intuicyjne i mogą spowodować, że użytkownik może się poczuć zagubiony i zrezygnuje z korzystania z niej. Można takie miejsca znaleźć już na stronie głównej, korzystając z dostępnych tam funkcji, a przecież strona główna jest wizytówką aplikacji. Niektóre przydatne funkcje w aplikacji są za mało widoczne, podczas gdy inne są zbyt wyeksponowane. Także tekst z opisami w niektórych miejscach mógłby być większy, ponieważ zbyt mały może utrudniać osobom gorzej widzącym przeczytanie informacji.
+📝 Uważam, że potrzeba by było kilka zmian, żeby aplikacja ta stała się user-friendly. Jest kilka miejsc, które nie są intuicyjne i mogą spowodować, że użytkownik może się poczuć zagubiony i zrezygnuje z korzystania z niej. Można takie miejsca znaleźć już na stronie głównej, korzystając z dostępnych tam funkcji, a przecież strona główna jest wizytówką aplikacji. Niektóre przydatne funkcje w aplikacji są za mało widoczne, podczas gdy inne są zbyt wyeksponowane. Także tekst z opisami w niektórych miejscach mógłby być większy, ponieważ zbyt mały może utrudniać osobom gorzej widzącym przeczytanie informacji.
 
 **4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?**
 
-Poprawiłabym aplikacje poprzez:
+📝 Poprawiłabym aplikacje poprzez:
 - Dodanie samouczka,  który po pierwszym uruchomieniu aplikacji podpowiedziałby jak aplikacja działa, gdzie są jej podstawowe funkcje i jak je uruchomić i wyłączyć. Użytkownik sam metodą prób i błędów musi poznawać aplikacje, jeżeli chce z niej korzystać, co może być zniechęcające dla osób, które nie miały z takim rodzajem aplikacji do czynienia.
 - Dodanie możliwości przejścia z każdej strony do sekcji z możliwością uzyskania pomocy czy kontaktu z twórcami aplikacji. W tym momencie funkcja ta nie jest łatwo dostępna i trzeba wykonać kilka kroków z głównego menu, żeby do niej dotrzeć.
 - Dodanie komunikatów, że jakaś akcja się powiodła, np. założenie konta czy usunięcie konta.
 - Zwiększenie czcionki w opisach niektórych elementów.
 
-Pomysły na dodatkowe funkcjonalności:
+📝 Pomysły na dodatkowe funkcjonalności:
 - Dodanie kalendarz z informacjami kiedy, np. medytowaliśmy.
 - Dodanie miejsce na notatki, przemyślenia po wysłuchaniu konkretnych lekcji, miejsce na notatki połączyłabym z kalendarzem.
 
 **5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?**
 
-Aplikacje internetową trzeba przetestować biorąc pod uwagę przeglądarki internetowe i urządzeniach, natomiast w natywnej możemy się ograniczyć testy do urządzeń z danym systemem operacyjnym. W aplikacji natywnej trzeba zwracać uwagę na odpowiednie rozmieszczenie i wielkość przycisków, czy można przesuwać strony bez klikania w ekran, czy wszystko płynnie można przesuwać i nic się nie zacina. Trzeba też wykonać testy pod względem wysyłanych przez aplikację natywną powiadomień oraz współgranie z panelem nawigacyjnym telefonu. Należy przetestować też wykorzystanie przez aplikację natywną wbudowanych zasobów urządzenia: lokalizacji, aparatu, książki adresowej itp. Powinno się sprawdzić też jak aplikacja natywna zachowa się w przypadku zakłóceń, takich jak połączenia telefoniczne, SMS-y i wiadomości, powiadomienia push itp. a także jak aplikacja zachowuje się w trybie offline. W przypadku aplikacji internetowych warto zwrócić uwagę na to jak dużo danych pobiera z serwera, czy nie przeciąża telefonu, czy jak zachowuje się w warunkach ograniczonego dostępu do internetu.
+📝 Aplikacje internetową trzeba przetestować biorąc pod uwagę przeglądarki internetowe i urządzeniach, natomiast w natywnej możemy się ograniczyć testy do urządzeń z danym systemem operacyjnym. W aplikacji natywnej trzeba zwracać uwagę na odpowiednie rozmieszczenie i wielkość przycisków, czy można przesuwać strony bez klikania w ekran, czy wszystko płynnie można przesuwać i nic się nie zacina. Trzeba też wykonać testy pod względem wysyłanych przez aplikację natywną powiadomień oraz współgranie z panelem nawigacyjnym telefonu. Należy przetestować też wykorzystanie przez aplikację natywną wbudowanych zasobów urządzenia: lokalizacji, aparatu, książki adresowej itp. Powinno się sprawdzić też jak aplikacja natywna zachowa się w przypadku zakłóceń, takich jak połączenia telefoniczne, SMS-y i wiadomości, powiadomienia push itp. a także jak aplikacja zachowuje się w trybie offline. W przypadku aplikacji internetowych warto zwrócić uwagę na to jak dużo danych pobiera z serwera, czy nie przeciąża telefonu, czy jak zachowuje się w warunkach ograniczonego dostępu do internetu.
 
 ## Subtask 4
-[Zgłoszenia błędów dla aplikacji mobilnej SwipeTo w Jira](https://testerzy.atlassian.net/jira/your-work)
+👉 [Zgłoszenia błędów dla aplikacji mobilnej SwipeTo w Jira](https://testerzy.atlassian.net/jira/your-work)
 
