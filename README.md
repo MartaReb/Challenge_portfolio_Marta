@@ -162,7 +162,7 @@ SELECT * FROM actors
 ORDER BY surname ASC;
 ```
 
-![1](https://user-images.githubusercontent.com/49365894/204598265-009eee17-f210-4109-a05c-187da4185798.png)
+![1](https://user-images.githubusercontent.com/49365894/204601342-3d58ebc1-ea5b-4701-8abc-e5aaf637bab6.png)
 
 
 💡 2. Wyświetl film, który powstał w 2019 roku.
