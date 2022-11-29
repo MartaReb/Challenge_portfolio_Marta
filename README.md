@@ -162,7 +162,7 @@ SELECT * FROM actors
 ORDER BY surname ASC;
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/173b3d1a-2968-4465-90c8-23da09ec4fcb/Untitled.png)
+![Screenshot](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/173b3d1a-2968-4465-90c8-23da09ec4fcb/Untitled.png)
 
 2. Wyświetl film, który powstał w 2019 roku.
 
@@ -225,7 +225,7 @@ WHERE customer_id IN (1,3,5);
 WHERE name LIKE 'An%';
 ```
 
-![2022-11-27_12h38_55.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9a8d8123-829f-45d6-9ba0-4a3863b3b00f/2022-11-27_12h38_55.png)
+![Screenshot](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9a8d8123-829f-45d6-9ba0-4a3863b3b00f/2022-11-27_12h38_55.png)
 
 9. Wyświetl dane klienta, który nie ma podanego adresu email.
 
@@ -234,6 +234,6 @@ SELECT * FROM customers
 WHERE email IS NULL;
 ```
 
-![2022-11-27_12h40_34.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09706700-23f8-4e09-b4d9-bfc57ad5a017/2022-11-27_12h40_34.png)
+![Screenshot](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09706700-23f8-4e09-b4d9-bfc57ad5a017/2022-11-27_12h40_34.png)
 
 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
