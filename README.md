@@ -145,14 +145,14 @@ Zdecydowałam się na udział w Dare-IT Portfolio Challenge, ponieważ jest to �
 ## Subtask 1
 Operatory/zapytania w języku SQL, których się nauczyłam: 
 
-❔ SELECT, DISTINCT, AS, UPPER, LOWER, COUNT, SUM, MIN, MAX, AVG,
-❓ ORDER BY, ASC, DESC, 
-❔WHERE, BETWEEN, LIKE, AND, OR, IS (NOT) NULL, IN,
-❓LIMIT,
-❔GROUP BY,
-❓INNER JOIN, LFT JOIN, RIGHT JOIN, FULL JOIN,
-❔CREATE, INSERT, UPDATE
-❓DROP, DELETE
+❔ - SELECT, DISTINCT, AS, UPPER, LOWER, COUNT, SUM, MIN, MAX, AVG,
+❓ - ORDER BY, ASC, DESC, 
+❔ - WHERE, BETWEEN, LIKE, AND, OR, IS (NOT) NULL, IN,
+❓ - LIMIT,
+❔ - GROUP BY,
+❓ - INNER JOIN, LFT JOIN, RIGHT JOIN, FULL JOIN,
+❔ - CREATE, INSERT, UPDATE
+❓ - DROP, DELETE
 
 ## Subtask 3 
 💡 1. Wyświetl tabelę 'actors' w kolejności alfabetycznej sortując po kolumnie “surname”.
