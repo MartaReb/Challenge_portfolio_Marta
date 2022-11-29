@@ -161,7 +161,8 @@ DROP, DELETE
 SELECT * FROM actors
 ORDER BY surname ASC;
 ```
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/173b3d1a-2968-4465-90c8-23da09ec4fcb/Untitled.png)
+![2022-11-27_11h53_02](https://user-images.githubusercontent.com/49365894/204593877-e790b245-c277-489e-a72d-2727894ad7a6.png)
+
 
 2. Wyświetl film, który powstał w 2019 roku.
 
