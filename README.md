@@ -155,85 +155,102 @@ CREATE, INSERT, UPDATE
 DROP, DELETE
 
 ## Subtask 3 
-1. Wyświetl tabelę “actors” w kolejności alfabetycznej sortując po kolumnie “surname”.
+💡 1. Wyświetl tabelę “actors” w kolejności alfabetycznej sortując po kolumnie “surname”.
 
 ```sql
 SELECT * FROM actors
 ORDER BY surname ASC;
 ```
-![2022-11-27_11h53_02](https://user-images.githubusercontent.com/49365894/204593877-e790b245-c277-489e-a72d-2727894ad7a6.png)
+
+![1](https://user-images.githubusercontent.com/49365894/204598265-009eee17-f210-4109-a05c-187da4185798.png)
 
 
-2. Wyświetl film, który powstał w 2019 roku.
+💡 2. Wyświetl film, który powstał w 2019 roku.
 
 ```sql
 SELECT * FROM movies
 WHERE year_of_production = 2019;
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1063e49e-13f1-45ce-acc2-7aad595cbcab/Untitled.png)
+![2](https://user-images.githubusercontent.com/49365894/204598303-5bccfd6e-49d5-4f50-8376-7d515c66d439.png)
 
-3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+
+💡 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
 
 ```sql
 SELECT * FROM movies
 WHERE year_of_production BETWEEN 1900 AND 1999;
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/619f60e2-c1d3-4da7-91a2-f84d3253c035/Untitled.png)
+![3](https://user-images.githubusercontent.com/49365894/204598350-6dd35c0b-1fd1-44e3-89dd-be888bb0b5e2.png)
 
-4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.
+
+💡 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.
 
 ```sql
 SELECT title, price FROM movies
 WHERE price < 7;
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/92d6ebac-544a-4aeb-b826-fe546e023116/Untitled.png)
+![4](https://user-images.githubusercontent.com/49365894/204598430-411a724e-3ff3-45d2-978c-3bcace5d094c.png)
 
-5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+
+💡 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 
 ```sql
 SELECT * FROM actors
 WHERE actor_id >= 4 AND actor_id <= 7;
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f5976372-0c04-4cf8-89e6-a0585a055c49/Untitled.png)
+![5](https://user-images.githubusercontent.com/49365894/204598486-1aa98e25-3b23-4796-8a70-fc6d33831bd9.png)
 
-6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. 
+
+💡 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. 
 
 ```sql
 SELECT * FROM customers
 WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6;
 ```
 
-![2022-11-27_11h57_52.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5b2b3dac-a627-4253-979a-1a77c799dbde/2022-11-27_11h57_52.png)
+![6](https://user-images.githubusercontent.com/49365894/204598524-5f9ab4a3-7e27-4fe4-80a3-094bd52ab37b.png)
 
-7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
+
+💡 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
 
 ```sql
 SELECT * FROM customers
 WHERE customer_id IN (1,3,5);
 ```
 
-![2022-11-27_12h02_31.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3fa966f-33cd-4983-bd9f-9030a41dbd86/2022-11-27_12h02_31.png)
+![7](https://user-images.githubusercontent.com/49365894/204598570-e1b52aa5-3fb9-41ba-97fc-678f46836dc2.png)
 
-8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+
+💡 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 
 ```sql
  SELECT * FROM actors
 WHERE name LIKE 'An%';
 ```
 
-![Screenshot](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9a8d8123-829f-45d6-9ba0-4a3863b3b00f/2022-11-27_12h38_55.png)
+![8](https://user-images.githubusercontent.com/49365894/204598622-814551c8-519a-4e6c-95b5-6ef02083fe6b.png)
 
-9. Wyświetl dane klienta, który nie ma podanego adresu email.
+
+💡 9. Wyświetl dane klienta, który nie ma podanego adresu email.
 
 ```sql
 SELECT * FROM customers
 WHERE email IS NULL;
 ```
 
-![Screenshot](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09706700-23f8-4e09-b4d9-bfc57ad5a017/2022-11-27_12h40_34.png)
+![9](https://user-images.githubusercontent.com/49365894/204598665-6daa56ba-df75-41fc-b9c3-1abb5cf11b95.png)
 
-10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+
+💡 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+
+```sql
+SELECT * FROM movies
+WHERE (price > 9) AND (movie_id BETWEEN 2 AND 8);
+```
+
+![10](https://user-images.githubusercontent.com/49365894/204598731-0c644ed8-a466-474b-a470-be1b201959ca.png)
+
