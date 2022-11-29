@@ -141,3 +141,99 @@ Zdecydowałam się na udział w Dare-IT Portfolio Challenge, ponieważ jest to �
 ## Subtask 4
 👉 [Zgłoszenia błędów dla aplikacji mobilnej SwipeTo w Jira](https://testerzy.atlassian.net/jira/your-work)
 
+# TASK 5
+## Subtask 1
+Operatory/zapytania w języku SQL, których się nauczyłam: 
+
+SELECT, DISTINCT, AS, UPPER, LOWER, COUNT, SUM, MIN, MAX, AVG,
+ORDER BY, ASC, DESC, 
+WHERE, BETWEEN, LIKE, AND, OR, IS (NOT) NULL, IN,
+LIMIT,
+GROUP BY,
+INNER JOIN, LFT JOIN, RIGHT JOIN, FULL JOIN,
+CREATE, INSERT, UPDATE
+DROP, DELETE
+
+## Subtask 3 
+1. Wyświetl tabelę “actors” w kolejności alfabetycznej sortując po kolumnie “surname”.
+
+```sql
+SELECT * FROM actors
+ORDER BY surname ASC;
+```
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/173b3d1a-2968-4465-90c8-23da09ec4fcb/Untitled.png)
+
+2. Wyświetl film, który powstał w 2019 roku.
+
+```sql
+SELECT * FROM movies
+WHERE year_of_production = 2019;
+```
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1063e49e-13f1-45ce-acc2-7aad595cbcab/Untitled.png)
+
+3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+
+```sql
+SELECT * FROM movies
+WHERE year_of_production BETWEEN 1900 AND 1999;
+```
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/619f60e2-c1d3-4da7-91a2-f84d3253c035/Untitled.png)
+
+4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.
+
+```sql
+SELECT title, price FROM movies
+WHERE price < 7;
+```
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/92d6ebac-544a-4aeb-b826-fe546e023116/Untitled.png)
+
+5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+
+```sql
+SELECT * FROM actors
+WHERE actor_id >= 4 AND actor_id <= 7;
+```
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f5976372-0c04-4cf8-89e6-a0585a055c49/Untitled.png)
+
+6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. 
+
+```sql
+SELECT * FROM customers
+WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6;
+```
+
+![2022-11-27_11h57_52.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5b2b3dac-a627-4253-979a-1a77c799dbde/2022-11-27_11h57_52.png)
+
+7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
+
+```sql
+SELECT * FROM customers
+WHERE customer_id IN (1,3,5);
+```
+
+![2022-11-27_12h02_31.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3fa966f-33cd-4983-bd9f-9030a41dbd86/2022-11-27_12h02_31.png)
+
+8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+
+```sql
+ SELECT * FROM actors
+WHERE name LIKE 'An%';
+```
+
+![2022-11-27_12h38_55.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9a8d8123-829f-45d6-9ba0-4a3863b3b00f/2022-11-27_12h38_55.png)
+
+9. Wyświetl dane klienta, który nie ma podanego adresu email.
+
+```sql
+SELECT * FROM customers
+WHERE email IS NULL;
+```
+
+![2022-11-27_12h40_34.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09706700-23f8-4e09-b4d9-bfc57ad5a017/2022-11-27_12h40_34.png)
+
+10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
