@@ -10,7 +10,7 @@ Cześć! Mam na imię Marta 🙂 Jakiś czas temu postanowiłam się przebranżo
 
 Zdecydowałam się na udział w Dare-IT Portfolio Challenge, ponieważ jest to świetna okazja do zdobywania nowych umiejętności oraz poznania ludzi o podobnych celach i zainteresowaniach. W projekcie chciałabym jak najwięcej uczyć się poprzez praktykę: ćwiczyć wykorzystywanie technik testowania, zgłaszanie błędów, korzystanie z narzędzi oraz tworzenie dokumentacji testerskiej. Mam nadzieję, że moje wysiłki zaowocują zdobyciem pracy jako tester oprogramowania 🙂
 
-![test-13394_640](https://user-images.githubusercontent.com/49365894/205621838-e29e13e1-e031-4ed9-80ec-b67662cc7c2d.jpg)
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/49365894/205621838-e29e13e1-e031-4ed9-80ec-b67662cc7c2d.jpg">
 </p>
