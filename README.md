@@ -17,6 +17,8 @@ Zdecydowałam się na udział w Dare-IT Portfolio Challenge, ponieważ jest to �
 <p align="right">
  źródło: https://pixabay.com/
 <p>
+	
+	
 ## Subtask 4
 1. Na czym polega ta aplikacja? Do czego służy?
 
