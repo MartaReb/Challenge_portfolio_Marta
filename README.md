@@ -14,7 +14,7 @@ Zdecydowałam się na udział w Dare-IT Portfolio Challenge, ponieważ jest to �
 <p align="center">
   <img src="https://user-images.githubusercontent.com/49365894/205621838-e29e13e1-e031-4ed9-80ec-b67662cc7c2d.jpg">
 </p>
-źródło: https://pixabay.com/ -​|
+źródło: https://pixabay.com/
 
 ## Subtask 4
 1. Na czym polega ta aplikacja? Do czego służy?
@@ -406,6 +406,9 @@ VALUES
 ## Subtask 2
 12/15 punktów :blush:
 
-![graduation-2](https://user-images.githubusercontent.com/49365894/205629021-6e665378-0df8-45a3-bbba-5085ffe597d5.png)
-źródło: https://pixabay.com/ -​|
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49365894/205629021-6e665378-0df8-45a3-bbba-5085ffe597d5.png">
+</p>
+źródło: https://pixabay.com/
+
 
