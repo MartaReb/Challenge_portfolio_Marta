@@ -403,5 +403,6 @@ VALUES
 ## Subtask 2
 12/15 punktów :blush:
 
-![graduation-7289345_1280](https://user-images.githubusercontent.com/49365894/205628564-bfa25d3f-1a69-480e-9b1f-5dd2416338c8.png)
+![graduation-2](https://user-images.githubusercontent.com/49365894/205629021-6e665378-0df8-45a3-bbba-5085ffe597d5.png)
+
 
