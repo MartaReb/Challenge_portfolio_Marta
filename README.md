@@ -397,3 +397,5 @@ VALUES
 
 ![20](https://user-images.githubusercontent.com/49365894/205619413-4d67cce2-54fe-4163-a864-42a7787d77af.png)
 
+## Subtask 2
+12/15 punktów :blush:
