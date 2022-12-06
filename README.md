@@ -407,7 +407,7 @@ VALUES
 12/15 punktów :blush:
 <br>
 <p align="center">
-  <img src="![graduation-4319259_960_720](https://user-images.githubusercontent.com/49365894/205933360-cf3b8655-4e8c-40c7-b90c-3d69ea7f92a3.png)">
+  <img src="https://user-images.githubusercontent.com/49365894/205933360-cf3b8655-4e8c-40c7-b90c-3d69ea7f92a3.png">
 </p>
 <p align="right">
   źródło: https://pixabay.com/
